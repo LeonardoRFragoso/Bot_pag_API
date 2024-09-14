@@ -106,8 +106,3 @@ Certifique-se de que você tem o Python 3.10+ instalado.
 ├── .env                 # Variáveis de ambiente
 ├── requirements.txt     # Dependências do projeto
 └── README.md            # Este arquivo
-
-
-## Licença
-
-Este projeto está licenciado sob os termos da MIT License.
