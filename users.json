@@ -1,0 +1,63 @@
+{
+    "833732395": {
+        "products": [
+            {
+                "nome": "Produto_de_Teste",
+                "pre\u00e7o": 50.0
+            },
+            {
+                "nome": "\"Produto Teste\"",
+                "pre\u00e7o": 100.0
+            },
+            {
+                "nome": "\"Produto Teste\"",
+                "pre\u00e7o": 100.0
+            },
+            {
+                "nome": "\"Produto Teste\"",
+                "pre\u00e7o": 100.0
+            },
+            {
+                "nome": "\"teste\"",
+                "pre\u00e7o": 100.0
+            },
+            {
+                "nome": "\"teste2\"",
+                "pre\u00e7o": 150.0
+            },
+            {
+                "nome": "\"leo\"",
+                "pre\u00e7o": 1000.0
+            },
+            {
+                "nome": "\"leo2\"",
+                "pre\u00e7o": 150.0
+            },
+            {
+                "nome": "\"eee\"",
+                "pre\u00e7o": 200.0
+            },
+            {
+                "nome": "\"fff\"",
+                "pre\u00e7o": 20.0
+            },
+            {
+                "nome": "\"ffffff\"",
+                "pre\u00e7o": 300.0
+            },
+            {
+                "nome": "\"ere\"",
+                "pre\u00e7o": 123.0
+            },
+            {
+                "nome": "\"sdsadas\"",
+                "pre\u00e7o": 321312.0
+            },
+            {
+                "nome": "\"bvbv\"",
+                "pre\u00e7o": 213213.0
+            }
+        ],
+        "mercado_pago_email": "seuemail@mercadopago.com"
+    }
+}

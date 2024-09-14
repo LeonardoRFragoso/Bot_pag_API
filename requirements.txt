@@ -1,0 +1,12 @@
+python-telegram-bot
+mercadopago
+httpx
+requests
+anyio
+certifi
+httpcore
+idna
+sniffio
+h11
+charset-normalizer
+urllib3
